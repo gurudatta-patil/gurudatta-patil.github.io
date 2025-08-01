@@ -1026,6 +1026,14 @@ main {
   font-weight: var(--fw-300);
 }
 
+.project-description {
+  color: var(--light-gray);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-300);
+  line-height: 1.4;
+  margin-top: 5px;
+}
+
 
 
 
