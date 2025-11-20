@@ -6,8 +6,6 @@
   Personal site & portfolio for Gurudatta Patil — software engineer building AI-first products, realtime infrastructure, and thoughtful developer experiences.
 </p>
 
-![Homepage preview](./static/og.png)
-
 ## 📌 Overview
 
 - **Stack:** Gatsby 3, React 17, Styled Components, and Markdown-powered content collections.

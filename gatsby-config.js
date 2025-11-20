@@ -8,7 +8,7 @@ module.exports = {
       'Gurudatta Patil is an AI-first software engineer who scales LLM infra, cloud platforms, and realtime experiences.',
     siteUrl: 'https://gurudatta-patil.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@gurudattapatil',
+    twitterUsername: '@gurudatta-patil',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
