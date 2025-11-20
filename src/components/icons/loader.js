@@ -1,0 +1,31 @@
+import React from 'react';
+
+const IconLoader = () => (
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <title>Loader Logo</title>
+    <g>
+      <polygon
+        className="hex-fill"
+        points="50 5 11 27 11 72 50 95 89 73 89 28"
+        fill="#05182f"
+      />
+      <polygon
+        id="outline"
+        points="50 5 11 27 11 72 50 95 89 73 89 28"
+        stroke="currentColor"
+        strokeWidth="5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        fill="none"
+      />
+      <g id="glyph" transform="translate(3.5, 0)">
+        <path
+          d="M 48, 28 C 35, 28 25, 38 25, 50 C 25, 62 35, 72 48, 72 C 58, 72 65, 66 68, 58 L 68, 58 L 68, 46 L 46, 46 L 46, 54 L 59, 54 C 58, 59 54, 64 48, 64 C 40, 64 34, 58 34, 50 C 34, 42 40, 36 48, 36 C 52, 36 55, 38 57, 40 L 63, 34 C 59, 30 54, 28 48, 28 Z"
+          fill="currentColor"
+        />
+      </g>
+    </g>
+  </svg>
+);
+
+export default IconLoader;
