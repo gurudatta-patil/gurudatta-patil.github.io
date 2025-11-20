@@ -53,9 +53,4 @@ Deploy anywhere that can host static files (Netlify, Vercel, GitHub Pages, Cloud
 | Mint (Accent) | `#64ffda` |
 | Sand | `#e6f1ff` |
 
-## 🙏 Credits
-
-- Design & build: **Gurudatta Patil** — [LinkedIn](https://www.linkedin.com/in/gurudatta-patil/) · [GitHub](https://github.com/gurudatta-patil)
-- Starter inspiration: **Brittany Chiang** ([brittanychiang.com](https://brittanychiang.com)). None of this would exist without her open-source work.
-
 Feel free to fork, remix, or learn from the code. Please leave attribution in place so folks know where the foundation began.
